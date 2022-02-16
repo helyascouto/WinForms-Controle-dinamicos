@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinForms-Controle dinamicos", "WinForms-Controle dinamicos\WinForms-Controle dinamicos.csproj", "{6C5E42C6-3F7B-4833-9026-C68511023682}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinForms-AdoNet", "WinForms-AdoNet\WinForms-AdoNet.csproj", "{F81DB055-A089-456C-8729-706FF1A3D531}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C5E42C6-3F7B-4833-9026-C68511023682}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C5E42C6-3F7B-4833-9026-C68511023682}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C5E42C6-3F7B-4833-9026-C68511023682}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C5E42C6-3F7B-4833-9026-C68511023682}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F81DB055-A089-456C-8729-706FF1A3D531}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F81DB055-A089-456C-8729-706FF1A3D531}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F81DB055-A089-456C-8729-706FF1A3D531}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F81DB055-A089-456C-8729-706FF1A3D531}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5156436-FB86-4B94-933F-41FD65777A2A}
+	EndGlobalSection
+EndGlobal
